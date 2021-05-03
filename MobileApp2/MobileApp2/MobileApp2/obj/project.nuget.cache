@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "Cb0x7ax6Ng7h6lT5VdFn0yjHgB3FjqXGplDLXdpV3aWaSKWauRyhJL12s+KN5wABP41LF8z4XM4EvUfRiKXcRA==",
+  "success": true,
+  "projectFilePath": "D:\\ITS\\SEMESTER 4\\PBKK\\Tugas 7\\MobileApp2\\MobileApp2\\MobileApp2\\MobileApp2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sie\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Sie\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\Sie\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.6.1\\xamarin.essentials.1.6.1.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\5.0.0.2012\\xamarin.forms.5.0.0.2012.nupkg.sha512"
+  ],
+  "logs": []
+}

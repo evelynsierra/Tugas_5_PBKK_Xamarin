@@ -1,0 +1,14 @@
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\bin\Debug\netstandard2.0\MobileApp2.deps.json
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\bin\Debug\netstandard2.0\MobileApp2.dll
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\bin\Debug\netstandard2.0\ref\MobileApp2.dll
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\bin\Debug\netstandard2.0\MobileApp2.pdb
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\MobileApp2.csprojAssemblyReference.cache
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\MobileApp2.AssemblyInfoInputs.cache
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\MobileApp2.AssemblyInfo.cs
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\MobileApp2.csproj.CoreCompileInputs.cache
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\XamlC.stamp
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\MobileApp2.dll
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\ref\MobileApp2.dll
+D:\ITS\SEMESTER 4\PBKK\Tugas 7\MobileApp2\MobileApp2\MobileApp2\obj\Debug\netstandard2.0\MobileApp2.pdb
